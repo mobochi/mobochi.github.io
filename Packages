@@ -1,27 +1,67 @@
 Package: com.laxus.iosgodsiapcracker
-Version: 1.0.2+debug
-Section: Tweaks
-Maintainer: Laxus <iOSGods.com>
-Depends: firmware (>10.0), mobilesubstrate
+Version: 1.0-2+debug
 Architecture: iphoneos-arm
-Filename: ./debs/com.laxus.iosgodsiapcracker_1.0-2+debug_iphoneos-arm.deb
+Maintainer: Laxus
+Depends: mobilesubstrate
+Filename: C:/Users/ReTseL/Desktop/oretselo.github.io-master/debs/com.laxus.iosgodsiapcracker_1.0-2+debug_iphoneos-arm.deb
 Size: 18412
 MD5sum: f609fdef7758b9f6c5b544781c58ded7
-Description: Tweak that is similar to the well known LocaliApStore but better! supports upto for A12 and A13 devices.
+SHA1: 6c7108cb350d2442aebc099fe3b2feaf939a55d6
+SHA256: 9f4b9857cd7a8286a14b477e5796cc14d7d71224fb8d8987a5a0324c4871aeb7
+Section: Tweaks
+Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
+Author: Laxus
+Installed-Size: 296
 Name: iOSGods iAP Cracker
-Author: Laxus <iOSGods.com>
 
 Package: me.nepeta.axonreborn
 Version: 2.0.0
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: Nepeta
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
 Conflicts: com.peterdev.grupi, me.nepeta.axon, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Architecture: iphoneos-arm
-Filename: ./debs/me.nepeta.axonreborn_2.0.0_iphoneos-arm.deb
+Filename: C:/Users/ReTseL/Desktop/oretselo.github.io-master/debs/me.nepeta.axonreborn_2.0.0_iphoneos-arm.deb
 Size: 140972
 MD5sum: 6f510e03f0db14460fe12caabb92e49a
+SHA1: 9ccbde0c4b48ce0281c98db933316c656090d2da
+SHA256: 6eb69002003ff3c1b37650b146f99c1181b2bbf9cf00027e05006f53495a2c0e
+Section: Tweaks
 Description: Priority Hub for iOS 13
-Name: Axon Reborn
 Author: Nepeta
-Depiction: https://repo.nepeta.me/depiction/me.nepeta.axonreborn
+Installed-Size: 576
+Name: Axon Reborn
+
+Package: ru.domo.cocoatop64
+Version: 2.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Domo
+Depends: 
+Conflicts: ru.domo.cocoatop
+Filename: C:/Users/ReTseL/Desktop/oretselo.github.io-master/debs/ru.domo.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
+Size: 151514
+MD5sum: c30794b242e73c924db279640dc6eee1
+SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
+SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
+Section: Utilities
+Description: Process Viewer for iOS 12+ GUI (64-bit)
+Author: Domo
+Installed-Size: 742
+Name: CocoaTop
+
+Package: ru.domo.cocoatop64
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: Domo
+Depends: 
+Conflicts: ru.domo.cocoatop
+Filename: C:/Users/ReTseL/Desktop/oretselo.github.io-master/debs/ru.domo.cocoatop64_2.0.2_iphoneos-arm.deb
+Size: 118756
+MD5sum: 91eb83ce0b02f4f3fa32e48797ddc2da
+SHA1: 3d36219ed91f11826297a445be1fa7b4bff8d1cb
+SHA256: 6bcfd4a79000d8721534d34b5d4917df4308cf647f0e3ab6f63aaa2ee0ee5eea
+Section: Utilities
+Description: Process Viewer for iOS 10 GUI (64-bit)
+Author: Domo
+Installed-Size: 446
+Name: CocoaTop
+
