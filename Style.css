@@ -68,7 +68,7 @@ body {
 .btn-outline {
     color:#02b4d4;
     font-size: 1.1em;
-    border: solid 2px #4683d4;
+    border: solid 1px #4683d4;
     background: transparent;
     transition: all 0.3s ease-in-out;
 }
@@ -78,7 +78,7 @@ body {
 .btn-outline:active,
 .btn-outline.active {
     color: black;
-    background:#4683d4;
+    background: #3f7dcc;
     border: solid 1px #455d7d;
 }
 footer{
