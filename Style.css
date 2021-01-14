@@ -1,5 +1,5 @@
 img {
-  border-radius: 50%;
+  border-radius: 26%;
 }
 
 body {
@@ -67,11 +67,11 @@ body {
 
 .btn-outline {
     color:#02b4d4;
-    font-size: 1.2em;
-    border: solid 1.5px #4683d4;
+    font-size: 1.1em;
+    border: solid 2px #4683d4;
     background: transparent;
-    transition: all 0.2s ease-in-out;
-    margin-top: 15px;
+    transition: all 0.3s ease-in-out;
+    margin-top: -15px;
 }
 
 .btn-outline:hover,
@@ -80,11 +80,12 @@ body {
 .btn-outline.active {
     color: black;
     background:#4683d4;
-    border: solid 2px #455d7d;
+    border: solid 1px #455d7d;
 }
 footer{
-    padding-top: 50px;
+    padding-top: 20px;
     background-color: none;
+    text-align: center;
     height:80px;
 }
 footer .footer-above {
