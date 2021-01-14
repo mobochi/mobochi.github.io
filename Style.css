@@ -37,7 +37,7 @@ header .repo {
     }
 
     header .repo {
-        padding-top:15px;
+        padding-top: 15px;
         font-size: 2.5em;
     }
 
@@ -49,7 +49,7 @@ header .repo {
 
 header .dono {
     display: block;
-    padding-top:2px;
+    padding-top: 2px;
     font-family: "Karla", sans-serif;
     text-transform: none;
     font-size: 1.2em;
@@ -71,7 +71,6 @@ body {
     border: solid 2px #4683d4;
     background: transparent;
     transition: all 0.3s ease-in-out;
-    margin-top: -15px;
 }
 
 .btn-outline:hover,
@@ -83,13 +82,14 @@ body {
     border: solid 1px #455d7d;
 }
 footer{
-    padding-top: 20px;
+    padding-top: 10px;
     background-color: none;
     text-align: center;
-    height:80px;
+    height:50px;
+  
 }
 footer .footer-above {
-    padding-top: 10px;
+    padding-top: 5px;
     background-color: none;
 }
 .btn-social {
