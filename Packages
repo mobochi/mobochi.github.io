@@ -1,0 +1,27 @@
+Package: com.laxus.iosgodsiapcracker
+Version: 1.0.2+debug
+Section: Tweaks
+Maintainer: Laxus <iOSGods.com>
+Depends: firmware (>10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.laxus.iosgodsiapcracker_1.0-2+debug_iphoneos-arm.deb
+Size: 18412
+MD5sum: f609fdef7758b9f6c5b544781c58ded7
+Description: Tweak that is similar to the well known LocaliApStore but better! supports upto for A12 and A13 devices.
+Name: iOSGods iAP Cracker
+Author: Laxus <iOSGods.com>
+
+Package: me.nepeta.axonreborn
+Version: 2.0.0
+Section: Tweaks
+Maintainer: Nepeta
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
+Conflicts: com.peterdev.grupi, me.nepeta.axon, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Architecture: iphoneos-arm
+Filename: ./debs/me.nepeta.axonreborn_2.0.0_iphoneos-arm.deb
+Size: 140972
+MD5sum: 6f510e03f0db14460fe12caabb92e49a
+Description: Priority Hub for iOS 13
+Name: Axon Reborn
+Author: Nepeta
+Depiction: https://repo.nepeta.me/depiction/me.nepeta.axonreborn
