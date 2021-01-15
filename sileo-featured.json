@@ -1,51 +1,27 @@
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{296, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
-    {
-        "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/main/assets/ru.domo.cocoatop/banner.png",
-        "title": "CocoaTop",
-        "package": "ru.domo.cocoatop",
-        "hideShadow": false
-    }
-  ]
-}
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{296, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
-    {
-        "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/main/assets/me.nepeta.axonreborn/banner.png",
-        "title": "Axon Reborn",
-        "package": "me.nepeta.axonreborn",
-        "hideShadow": false
-    }
-  ]
-}
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{296, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
-    {
-        "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/main/assets/jp.akusio.milkyway2/banner.png",
-        "title": "Milkyway 2",
-        "package": "jp.akusio.milkyway2",
-        "hideShadow": false
-    }
-  ]
-}
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{296, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
-    {
-        "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/main/assets/jp.akusio.kernbypass/banner.png",
-        "title": "KernBypass",
-        "package": "jp.akusio.kernbypass",
-        "hideShadow": false
-    }
-  ]
+  {"class":"FeaturedBannersView",
+    "itemSize":"{263, 148}",
+    "itemCornerRadius":8,
+    "banners":
+  [
+    {       "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/main/assets/ru.domo.cocoatop/banner.png",
+            "title": "CocoaTop",
+            "package": "ru.domo.cocoatop",
+            "hideShadow": false
+      },
+      {     "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/main/assets/me.nepeta.axonreborn/banner.png",
+            "title": "Axon Reborn",
+            "package": "me.nepeta.axonreborn",
+            "hideShadow": false
+        },
+        {   "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/main/assets/jp.akusio.milkyway2/banner.png",
+            "title": "Milkyway 2",
+            "package": "jp.akusio.milkyway2",
+            "hideShadow": false
+          },
+          { "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/main/assets/jp.akusio.kernbypass/banner.png",
+            "title": "KernBypass",
+            "package": "jp.akusio.kernbypass",
+            "hideShadow": false
+            }
+        ]
+      }
