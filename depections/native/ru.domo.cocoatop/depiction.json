@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## TWEAK_NAME\nSHORT_DESCRIPTION"
+					"markdown": "## CocoaTop\nProcess Viewer for iOS GUI, updated for iOS 13 by SXX."
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,32 +19,27 @@
 				},
 				{
 					"title": "Version",
-					"text": "VERSION_NUMBER",
+					"text": "2.2.1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "RELEASE_DATE",
+					"text": "Oct 23, 2020",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Price",
-					"text": "PRICE",
+					"text": "Free",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "DEVELOPER_NAME",
+					"text": "Domo, SXX",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Website",
-					"action": "WEBSITE_HERE",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "Use This Template",
-					"action": "https://github.com/syns/repo.me",
+					"title": "Official Link",
+					"action": "https://github.com/D0m0/CocoaTop/releases/tag/2.2.1",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -62,18 +57,18 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "VERSION_NUMBER",
+					"title": "2.2.1",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 UPDATE_DESCRIPTION",
+					"markdown": "\t\n\u2022 Full iOS 13 support, Includes Safe area on iPhone X screen, Dark Mode support, Split View on iPad.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released RELEASE_DATE</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Oct 23, 2020</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
