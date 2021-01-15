@@ -4,7 +4,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/sileo/cocoatop.png",
+        "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/main/assets/ru.domo.cocoatop/banner.png",
         "title": "CocoaTop",
         "package": "ru.domo.cocoatop",
         "hideShadow": false
@@ -17,7 +17,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/sileo/axonreborn.png",
+        "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/main/assets/me.nepeta.axonreborn/banner.png",
         "title": "Axon Reborn",
         "package": "me.nepeta.axonreborn",
         "hideShadow": false
@@ -30,7 +30,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/sileo/milkyway2.png",
+        "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/main/assets/jp.akusio.milkyway2/banner.png",
         "title": "Milkyway 2",
         "package": "jp.akusio.milkyway2",
         "hideShadow": false
@@ -43,7 +43,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/sileo/kernbypass.png",
+        "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/main/assets/jp.akusio.kernbypass/banner.png",
         "title": "KernBypass",
         "package": "jp.akusio.kernbypass",
         "hideShadow": false
