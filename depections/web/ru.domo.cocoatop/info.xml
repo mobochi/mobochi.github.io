@@ -4,11 +4,11 @@
 	<version>2.2.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS6.0</miniOS>
+			<miniOS>6.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package></package>
+		<package> </package>
 	</dependencies>
 	<shortDescription>Process Viewer for iOS GUI, updated for iOS 13 by SXX</shortDescription>
 	<descriptionlist>
@@ -16,33 +16,28 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
 			<image>cocoatop1.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
 			<image>cocoatop2.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
 			<image>cocoatop3.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
 			<image>cocoatop4.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
 			<image>cocoatop5.jpg</image>
 		</screenshot>
 	</screenshot>		
 	<changelog>
 		<change>Second release</change>
-		<change>2.2.1: In this version:<br>
+		 <change>2.2.1: In this version:<br>
 		- Full iOS 13 support
 		- Includes iPhone X's Screen Safe Area
 		- Dark mode 
-		- Split view on iPad.</change>
+		- Split view on iPad.</br></change>
 	</changelog>
 	<links>
 			<ul class="list-inline">
