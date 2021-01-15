@@ -48,23 +48,6 @@ Author: Pangu
 Depiction: http://www.yourepo.com/repo/speedmx/pack/localiapstore
 Name: LocalIAPStore
 
-Package: jp.akusio.backgrounderaction11
-Version: 0.0.8
-Architecture: iphoneos-arm
-Maintainer: akusio <akusio-report@neko2.net>
-Depends: mobilesubstrate, libactivator (>=1.9.13~beta2), Firmware(>=11.0)
-Filename: ./debs/jp.akusio.backgrounderaction11_0.0.8_iphoneos-arm.deb
-Size: 11254
-MD5sum: 4e5f9a3bf7181ab56b9f92c62d052a2b
-SHA1: db4126586d28fec526217d49f2f1ca06920705f2
-SHA256: ea95a4ff7b088375985dae7df02a79e6c006d911acd819c67eb60097b7da6a32
-Section: Tweaks
-Description: *Currnetly in Beta* Add "Toggle Background Mode" action to Activator.
-Author: akusio <akusio-report@neko2.net>
-Depiction: https://akusio.github.io/descriptions/backgrounderaction/index.html
-Installed-Size: 72
-Name: Backgrounder Action
-
 Package: jp.akusio.backgrounderaction12
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -182,5 +165,21 @@ Section: Utilities
 Description: Process Viewer for iOS GUI (64-bit)
 Author: Domo
 Installed-Size: 742
+Name: CocoaTop
+
+Package: ru.domo.cocoatop
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: Domo, SXX
+Depends: 
+Filename: ./debs/ru.domo.cocoatop_2.2.1_iphoneos-arm.deb
+Size: 223750
+MD5sum: a8266115642ed34f659f34a8085f934a
+SHA1: e6141a28656f19d78c5c99e86c0708946e79e040
+SHA256: 071f101692b5c520bde3d1f99e72c0d0fff4be84f58fdcbdb26351c0ab8e1a81
+Section: Utilities
+Description: Process Viewer for iOS GUI, updated for iOS 13 by SXX.
+Author: Domo, SXX
+Installed-Size: 876
 Name: CocoaTop
 
