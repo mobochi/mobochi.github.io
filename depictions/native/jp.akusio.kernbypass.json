@@ -1,4 +1,4 @@
-﻿{
+{
   "minVersion": "0.1",
   "headerImage": "https://mobochi.github.io/assets/ru.domo.cocoatop/banner.png",
   "tintColor": "#bce9fd",
@@ -6,15 +6,10 @@
     {
       "tabname": "Details",
       "views": [
-        {
-          "class": "DepictionStackView",
-          "backgroundColor": "#dd3333",
-          "views": []
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 5
-        },
+      {
+      "class": "DepictionSpacerView",
+      "spacing": 5
+      },
         {
           "class": "DepictionScreenshotsView",
           "screenshots": [
@@ -43,7 +38,7 @@
           "itemSize": "{185,400}"
         },
         {
-          "markdown": "**CocoaTop is a Process Viewer tool for iOS GUI.**\n- Full iOS13 Support\n\n- Includes Safe Area on iPhone X Screens\n\n- Supports Dark Mode\n\n- Split View on iPad\n",
+          "markdown": "**CocoaTop is a Process Viewer tool for iOS GUI.**\n- CocoaTop is a jailbreak app that displays information about used CPU and RAM by running in the background apps and daemons.\n",
           "useSpacing": "true",
           "class": "DepictionMarkdownView"
         },
@@ -71,7 +66,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Compatibility",
-          "text": "iOS 6 to 13+"
+          "text": "iOS 6.0 to 13.x"
         },
         {
           "class": "DepictionTableTextView",
@@ -100,7 +95,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "#### Version 2.2.1\n\n- Full iOS13 Support\n\n- Includes Safe Area on iPhone X Screens\n\n- Supports Dark Mode\n\n- Split View on iPad\n"
+          "markdown": "#### Version 2.2.1\n\n- iOS13 Support\n\n- Includes Safe Area on iPhone X Screens\n\n- Supports Dark Mode\n\n- Split View on iPad\n"
         },
         {
           "class": "DepictionLabelView",
