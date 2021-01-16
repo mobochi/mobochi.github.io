@@ -50,7 +50,8 @@
           "tintColor": "#bce9fd"
         },
         {
-          "class": "DepictionSpacerView"
+          "class": "DepictionSpacerView",
+          "spacing": 5
         },
         {
           "class": "DepictionHeaderView",
@@ -77,7 +78,8 @@
           "text": "Utilities"
         },
         {
-          "class": "DepictionSpacerView"
+          "class": "DepictionSpacerView",
+          "spacing": 5
         },
         {
           "class": "DepictionTableButtonView",
