@@ -4,22 +4,22 @@
     "banners":
   [
     {       "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/main/assets/ru.domo.cocoatop/banner.png",
-            "title": "CocoaTop",
+            "title": "",
             "package": "ru.domo.cocoatop",
             "hideShadow": false
       },
       {     "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/main/assets/me.nepeta.axonreborn/banner.png",
-            "title": "Axon Reborn",
+            "title": "",
             "package": "me.nepeta.axonreborn",
             "hideShadow": false
         },
         {   "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/main/assets/jp.akusio.milkyway2/banner.png",
-            "title": "Milkyway 2",
+            "title": "",
             "package": "jp.akusio.milkyway2",
             "hideShadow": false
           },
           { "url": "https://raw.githubusercontent.com/mobochi/mobochi.github.io/main/assets/jp.akusio.kernbypass/banner.png",
-            "title": "KernBypass",
+            "title": "",
             "package": "jp.akusio.kernbypass",
             "hideShadow": false
             }
