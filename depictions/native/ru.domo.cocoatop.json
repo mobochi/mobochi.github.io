@@ -50,6 +50,9 @@
           "tintColor": "#bce9fd"
         },
         {
+          "class": "DepictionSpacerView"
+        },
+        {
           "class": "DepictionHeaderView",
           "title": "Information"
         },
@@ -72,6 +75,9 @@
           "class": "DepictionTableTextView",
           "title": "Section",
           "text": "Utilities"
+        },
+        {
+          "class": "DepictionSpacerView"
         },
         {
           "class": "DepictionTableButtonView",
