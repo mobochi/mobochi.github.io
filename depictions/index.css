@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6, p {
 
 .caption {
     color: #bbb;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .header {
@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6, p {
     left: 15px;
     font-size: 25px;
     position: absolute;
-    text-shadow: 0 0 10px rgba(0,0,0,0.8); 
+    text-shadow: 0 0 10px rgba(0,0,0,0.8);
 }
 
 .center {
@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5, h6, p {
     float: left;
 }
 
-.right_float { 
+.right_float {
     float: right;
 }
 
@@ -109,27 +109,27 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .package {
-    margin-bottom: 40px;
+    margin-bottom: 25px;
 }
 
 .package > img {
     border-radius: 20px;
-    width: 75px;
-    height: 75px;
+    width: 50px;
+    height: 50px;
     float: left;
 }
 
 .package_info {
-    margin-left: 90px;
+    margin-left: 60px;
 }
 
 .package_name {
     font-weight: bold;
-    font-size: 21px;
+    font-size: 15px;
 }
 
 .package_caption {
-    margin-top: 7px;
+    margin-top: 2px;
     color: #999;
 }
 
@@ -143,8 +143,8 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 h3 {
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-top: 12px;
+    margin-bottom: 12px;
 }
 
 .footer {
@@ -171,11 +171,11 @@ h3 {
 .banner_underlay {
     background-size: cover;
     background-position: center;
-    height: 150px;
+    height: 110px;
     width: 100%;
-    border-radius: 8px;
+    border-radius: 7px;
     z-index: -2;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     top: 0;
 }
 
@@ -185,7 +185,7 @@ h3 {
 
 .nav {
     display: flex;
-    margin: 20px;
+    margin: 10px;
     float: center;
 }
 
