@@ -1,3 +1,37 @@
+Package: com.julioverne.cracktool4
+Version: 4.0~beta9e
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debs/com.julioverne.cracktool4_4.0~beta9e_iphoneos-arm.deb
+Size: 1052
+MD5sum: 3e31ec2739ef2de23498ffd5a814ff61
+SHA1: 2f550ab93786159c5abe6c3d47eab96729d3b8e4
+SHA256: ebcb141450d8eb347096cc808b73972a80ef3c812720c3b5773295fb785085a1
+Section: Utilities
+Description: Crack Tweaks on one click
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cracktool4
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+Name: CrackTool4 (iOS 12/13)
+
+Package: com.julioverne.spotilife
+Version: 1.3a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.spotilife_1.3a_iphoneos-arm.deb
+Size: 107696
+MD5sum: 371cbcd0d1add3e8e8c7a92df721833f
+SHA1: 49427824a6d173d46be1e8000620aa9af71c0269
+SHA256: 11c56fcc31e34f4d1c7d2698a4c16045bb26508df193136565f6097c2cb906bc
+Section: Tweaks
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+Name: Spotilife
+
 Package: com.laxus.iosgodsiapcracker
 Version: 1.0-2+debug
 Architecture: iphoneos-arm
@@ -13,6 +47,72 @@ Description: Free iAP Purchase for some apps and games, it doesn’t always work
 Author: Laxus
 Installed-Size: 296
 Name: iOSGods iAP Cracker
+
+Package: com.level3tjg.dictionaryfirst
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate
+Filename: ./debs/com.level3tjg.dictionaryfirst_0.0.4_iphoneos-arm.deb
+Size: 8456
+MD5sum: 1fa981b29b4faaecd6d4f2273ea1cc4f
+SHA1: ff7edf231da5d88b49efc855b32ae9fea804f320
+SHA256: 4e1ab74d8b3d96e40605a992c8670fc3b290f2e6a659a14609e1285f1da1d479
+Section: Tweaks
+Description: Show Dictionary entries first in Spotlight search
+Author: level3tjg
+Installed-Size: 136
+Name: DictionaryFirst
+
+Package: com.level3tjg.nowplayingroutelabel
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.level3tjg.nowplayingroutelabel_1.0_iphoneos-arm.deb
+Size: 3068
+MD5sum: 3414fd52eb4e8d469fb8008188939947
+SHA1: 5b2a21fdc75cb844079e53362f474769c485c1e2
+SHA256: 282671dee062045aeb4a5efd4aaa8748de64caedeba10a785bf4dcc4121bd849
+Section: Tweaks
+Description: Replace MediaPlayer route label text with the now playing app name
+Depiction: https://level3tjg.xyz/repo/depictions/?p=com.level3tjg.nowplayingroutelabel
+Author: level3tjg
+Installed-Size: 168
+Name: NowPlayingRouteLabel
+
+Package: com.shepgoba.photoinfo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shepgoba
+Depends: mobilesubstrate
+Filename: ./debs/com.shepgoba.photoinfo_1.0_iphoneos-arm.deb
+Size: 3940
+MD5sum: 54de833ee657afca8ec86f92879aac86
+SHA1: 6366b5fa6524f14a03aa31f25d5c328e82ce1329
+SHA256: 4fd3b0b113fcb7e7185a8e53bf5f1589ce274e7778f4a3f7776aff3214b40e95
+Section: Tweaks
+Description: Show photo resolution and disk usage in app
+Author: shepgoba
+Installed-Size: 104
+Name: PhotoInfo
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b7
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b7_iphoneos-arm.deb
+Size: 376480
+MD5sum: 7840cd173350cca694262e378b42954c
+SHA1: d39fe35b77240cbc04d67e1e107e23f0bd567289
+SHA256: 1c5b711521f83091eb0cb435f0e266edce0b53aca98eee847327f8bbcec12767
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Author: shiftcmdk
+Installed-Size: 3592
+Name: PencilChargingIndicator
 
 Package: com.sinfool.youtopia
 Version: 0.0.2
@@ -32,6 +132,23 @@ Description: The perfect YouTube experience!
 Author: sinfool
 Installed-Size: 152
 Name: YouTopia
+
+Package: com.udevs.darkswitch
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: udevs
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.udevs.darkswitch_1.0.1_iphoneos-arm.deb
+Size: 11672
+MD5sum: 7d641dcf486a660725fac3911a51b965
+SHA1: 0f81128b99d70745f68b343491e7b26bb23bc995
+SHA256: fae2ea28a244084b8767aeefbb809b6f6809efeb30fc13c2a3adced7dc3e7da3
+Section: Tweaks
+Description: Toggle Dark Mode in iOS 13 based on screen brightness.
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.darkswitch
+Author: udevs
+Installed-Size: 280
+Name: DarkSwitch
 
 Package: com.yourepo.speedmx.localiapstore
 Version: 1.4-4
@@ -127,11 +244,28 @@ MD5sum: 16215e3679d0e50c00f46af56a2ce41d
 SHA1: b215c92cbd349f14e54a0f9a6e61d417b1169c58
 SHA256: 6412eac6ad919b1f523a03115ae563cfe71ed63c498d1e11b1b661254dfb33f3
 Section: Tweaks
-Description: multitasking for iOS.
+Description: multitasking for iOS. 
 Depiction: http://akusio.github.io/descriptions/milkyway/index.html
 Author: akusio <akusio-report@neko2.net>
 Installed-Size: 208
 Name: MilkyWay
+
+Package: me.gmoran.darkerdarkmode
+Version: 0.3-1
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran (@fr0st)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/me.gmoran.darkerdarkmode_0.3-1_iphoneos-arm.deb
+Size: 5784
+MD5sum: 9d78dc9cce9c358e72c216ba34c693f7
+SHA1: ad652345d0c33119abe11ea07b1dec09eee760be
+SHA256: 94fbf869003c80a6a98f262f579ce498e41d38ce0d23e34d78c6a4277a70c1b5
+Section: Tweaks
+Description: Make iOS 13's OLED-Friendly
+Depiction: http://gmoran.me/depictions/darkerdarkmode.html
+Author: Guillermo Moran (@fr0st)
+Installed-Size: 168
+Name: OLED Dark Mode
 
 Package: me.nepeta.axonreborn
 Version: 2.0.0
@@ -154,7 +288,7 @@ Package: ru.domo.cocoatop
 Version: 2.2.1
 Architecture: iphoneos-arm
 Maintainer: Domo, SXX
-Depends:
+Depends: 
 Filename: ./debs/ru.domo.cocoatop_2.2.1_iphoneos-arm.deb
 Size: 223750
 MD5sum: a8266115642ed34f659f34a8085f934a
@@ -165,3 +299,20 @@ Description: Process Viewer for iOS GUI, updated for iOS 13 by SXX.
 Author: Domo, SXX
 Installed-Size: 876
 Name: CocoaTop
+
+Package: xyz.xninja.systeminfo
+Version: 2.7.2-2
+Architecture: iphoneos-arm
+Maintainer: ARX8x
+Depends: mobilesubstrate
+Filename: ./debs/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm.deb
+Size: 264484
+MD5sum: 5702be231de8c1ce7dac3edc65b6ffd0
+SHA1: a31d2c820aa55f07b9889e9ffe2c02b4cc46817b
+SHA256: f03a811f044b02fda1616cedb7741fcf3837082d552715f7e0c4ef78d96db6b8
+Section: Tweaks
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
+Depiction: https://arx8x.github.io/depictions/systeminfo.html
+Author: ARX8x
+Name: System Info
+
